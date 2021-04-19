@@ -1,8 +1,10 @@
 # juditvarga-PhD_scripts
 
-first version - scripts developed for PhD thesis
+This repository contains Python and R scripts I wrote for my PhD thesis.
 
 My PhD thesis, submitted in April 2021 at the School of Sociology of the University of Nottingham (UK) uses scientometrics, interviews and participant observation to explore how scholars from diverse disciplines use geotagged social media data (e.g. geolocated tweets, Instagram posts etc.). This folder contains Python and R scripts I wrote to analyse the scientometric data.
+
+The description are files in this repository are intended to complement the thesis' methods chapter, which describes each method in detail.
 
 I collected scientometric data from Web of Science. My scientometric field delineation matched a total of 2762 papers, broadly related to academic research that uses geotagged social media data between 2008-2019 (for short, geosocial papers).
 
@@ -12,7 +14,7 @@ Contributors: Judit Varga
 
 Contact: j.varga@cwts.leidenuniv.nl
 
-Below I briefly outline the data analyses and scripts pertaining to them. This description is intended to complement the thesis' methods chapter which contains detailed description about each paper.
+Below I briefly outline the methos in my thesis and related scripts.
 
 
 1.	Co-authorship analysis
