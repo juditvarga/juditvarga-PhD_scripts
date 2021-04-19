@@ -8,7 +8,9 @@ I collected scientometric data from Web of Science. My scientometric field delin
 
 The project was sponsored by the Horizon Digital Economy Centre for Doctoral Training at the University of Nottingham - Engineering and Physical Sciences Research Council and Ordnance Survey.
 
-Contributors: Judit Varga Contact: j.varga@cwts.leidenuniv.nl
+Contributors: Judit Varga 
+
+Contact: j.varga@cwts.leidenuniv.nl
 
 Below I briefly outline the data analyses and scripts pertaining to them. This description is intended to complement the thesis' methods chapter which contains detailed description about each paper.
 
